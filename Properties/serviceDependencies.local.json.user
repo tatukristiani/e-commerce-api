@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "postgresql1": {
+      "restored": true,
+      "restoreTime": "2025-01-10T04:02:45.9552647Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2025-01-10T04:02:45.8585245Z"
+    }
+  },
+  "parameters": {}
+}
